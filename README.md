@@ -5,9 +5,6 @@ This project is part of the [JavaScript30 Challenge](https://javascript30.com/) 
 
 ---
 
-## 🎬 Demo
-
-![Drum Kit Screenshot](./images/Screenshotsoloution.png)  
 Try pressing the keys **A, S, D, F, G, H, J, K, L** on your keyboard to play different drum sounds!
 
 **Live Demo:** [Add your deployed link here, e.g., GitHub Pages or Netlify]
